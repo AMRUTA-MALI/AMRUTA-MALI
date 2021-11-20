@@ -8,7 +8,7 @@
 - 📫 How to reach me ...
      email-id - amrutamali2999@gmail.com
      linkedin profile link- http://www.linkedin.com/in/amrutamali-8b24a8207
-     contact info- 7499097509
+     
 
 <!---
 AMRUTA-MALI/AMRUTA-MALI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
